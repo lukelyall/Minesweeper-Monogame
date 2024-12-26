@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/luke/Minesweeper/Content/checked.png","/home/luke/Minesweeper/Content/bin/DesktopGL/Content/checked.xnb","TextureProcessor","Texture2DContent",110,1109,0.0875399
+"/home/luke/Minesweeper/Content/flagged.png","/home/luke/Minesweeper/Content/bin/DesktopGL/Content/flagged.xnb","TextureProcessor","Texture2DContent",181,1109,0.0016809
+"/home/luke/Minesweeper/Content/mine.png","/home/luke/Minesweeper/Content/bin/DesktopGL/Content/mine.xnb","TextureProcessor","Texture2DContent",193,1109,0.0009809
+"/home/luke/Minesweeper/Content/one.png","/home/luke/Minesweeper/Content/bin/DesktopGL/Content/one.xnb","TextureProcessor","Texture2DContent",156,1109,0.0003908
+"/home/luke/Minesweeper/Content/two.png","/home/luke/Minesweeper/Content/bin/DesktopGL/Content/two.xnb","TextureProcessor","Texture2DContent",174,1109,0.0003835
+"/home/luke/Minesweeper/Content/unchecked.png","/home/luke/Minesweeper/Content/bin/DesktopGL/Content/unchecked.xnb","TextureProcessor","Texture2DContent",112,1109,0.0003772

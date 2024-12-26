@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/luke/Minesweeper/Content/checked.png</File>
+    <File>/home/luke/Minesweeper/Content/flagged.png</File>
+    <File>/home/luke/Minesweeper/Content/mine.png</File>
+    <File>/home/luke/Minesweeper/Content/one.png</File>
+    <File>/home/luke/Minesweeper/Content/two.png</File>
+    <File>/home/luke/Minesweeper/Content/unchecked.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
